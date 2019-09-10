@@ -1,0 +1,34 @@
+body{
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+	background-image:url(background2.jpg);
+	background-size:cover;
+}
+h1{
+	border-bottom: 2px solid black;
+	width: 530px;
+}
+
+.logo{
+	width: 90px;
+	height: 90px;
+	margin: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	float: left;
+}
+.headtext{
+	background-color: white;
+	opacity:0.8;
+}
+.links{
+	text-align:right;
+ 	margin-right:10px;
+}
+a{
+	margin-right:10px;
+	margin-left:10px;
+}
+.slogan{
+	font-size:12pt;
+}

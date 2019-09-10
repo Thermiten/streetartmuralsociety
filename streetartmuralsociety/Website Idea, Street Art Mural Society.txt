@@ -1,0 +1,7 @@
+Make a website to gather artists to paint murals in abandoned buildings that are sited to be demolished
+
+streetartmuralsociety.url  (SAMS)
+streetartmualassociation.url (SAMA)
+streetartsociety.url
+streetartassociation.url
+streetmural.url

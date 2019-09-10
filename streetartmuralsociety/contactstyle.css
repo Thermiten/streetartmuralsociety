@@ -1,0 +1,19 @@
+body {
+	margin: 0px;
+	background-image: url(background1.jpg);
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+	background-color: white;
+	opacity: 0.8;
+}
+.contactdetails{
+	background-color:white;
+	opacity:0.8;
+}
+div{
+
+}
